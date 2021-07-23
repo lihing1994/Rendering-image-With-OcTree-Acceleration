@@ -74,4 +74,22 @@ between each MeshFace object.<br/>
 ![image](https://user-images.githubusercontent.com/25276186/126746955-a4101cc3-06c0-4c79-be3e-34e98171ca37.png)<br/>
 
 
+# Testing - I
+An Octree for Mesh provided by Professor Kevein Smith in CS134 course at San Jose
+State University.<br/>
+![image](https://user-images.githubusercontent.com/25276186/126747205-19c6c3f5-fd76-4bcb-aba5-f565fdd42f3e.png)<br/>
+
+# Testing - II
+To render the following image, it took my MacBook Pro 16 inch 1.36 min to complete the
+whole job. The Mesh contains 432 unique faces. The resolution of image is 3440x2293.
+![image](https://user-images.githubusercontent.com/25276186/126747326-6ae40e8e-adf8-4ba7-a4da-86a005b3ab20.png)
+
+# Testing - III
+To render the following image, it took a Macbook Pro 16 inch laptop about 23.96 min to
+complete the job. The resolution of image is 3440x2293.
+Rendering environment included:
+1. A mirror reflective table.
+2. Two area lights.
+3. A Mesh object with 432 unique faces.
+![image](https://user-images.githubusercontent.com/25276186/126747469-e0af52fc-3e0a-41ba-aee2-8b09040857ac.png)
 

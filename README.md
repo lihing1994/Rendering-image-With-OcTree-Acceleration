@@ -22,6 +22,7 @@ implementation-3, the for-loop will draw each unique face of the Mesh on the scr
 In the Octree class, there are two curial variables. One is called _root and the other
 called _all_renderable_mesh_face_obj. The type of _root variable is the root node of the tree
 while _all_renderable_mesh_face_obj is a list that contains all the faces of the Mesh object.
+<br/>
 In the constructor of Octree, it will start with finding out the boundary of the Mesh
 object. As you can see in the implementation-5, it loops all the faces of Mesh, and marks
 down the minimum and maximum value of x,y, and z coordinates of the Mesh. Once the

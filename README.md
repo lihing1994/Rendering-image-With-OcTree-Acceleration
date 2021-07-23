@@ -75,7 +75,7 @@ between each MeshFace object.<br/>
 
 
 # Testing - I
-An Octree for Mesh provided by Professor Kevein Smith in CS134 course at San Jose
+Using OcTree to subdivide a triangle Mesh Object. 
 State University.<br/>
 ![image](https://user-images.githubusercontent.com/25276186/126747205-19c6c3f5-fd76-4bcb-aba5-f565fdd42f3e.png)<br/>
 

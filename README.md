@@ -75,8 +75,7 @@ between each MeshFace object.<br/>
 
 
 # Testing - I
-Using OcTree to subdivide a triangle Mesh Object. 
-State University.<br/>
+Using OcTree to subdivide a triangle Mesh Object. <br/>
 ![image](https://user-images.githubusercontent.com/25276186/126747205-19c6c3f5-fd76-4bcb-aba5-f565fdd42f3e.png)<br/>
 
 # Testing - II
